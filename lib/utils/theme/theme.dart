@@ -10,6 +10,7 @@ class TAppTheme {
     primaryColor: Colors.blue,
     scaffoldBackgroundColor: Colors.white,
     textTheme: TTextTheme.lightTextTheme,
+    
   );
 
   static ThemeData darkTheme = ThemeData(
