@@ -1,0 +1,3 @@
+class APIConstants {
+  static const String tSecretAPIKey = "cdfghuiuhygfvghjkjuhghjkjuyt6789ikjhbvcdertyuijnbvcfdswertyuikjnbvcfdretyuiu76545678iujhgfdrt6y7uijnbvfdert6yujhgv";
+}
